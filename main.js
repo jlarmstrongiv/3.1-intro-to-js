@@ -143,7 +143,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A: True!
+// A: False!
 
 
 // 22.
